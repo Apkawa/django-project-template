@@ -1,0 +1,8 @@
+-r requirements.txt
+ipython
+pytest
+pytest-django
+ipdb
+
+django-debug-toolbar
+django-extensions

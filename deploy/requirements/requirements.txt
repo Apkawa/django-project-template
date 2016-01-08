@@ -1,0 +1,7 @@
+django==1.9.1
+
+# Database drivers. Uncomment anyone is used.
+#MySQL-python
+#mysqlclient
+#psycopg2
+
